@@ -1,12 +1,12 @@
 {
-  "name": "calculator",
+  "name": "weatherproject",
   "version": "1.0.0",
-  "description": "This is the calculator web app",
-  "main": "calculator.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sudendu Chatterjee",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.0",
